@@ -1,0 +1,23 @@
+/* Custom styles for the card */
+.custom-card {
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.custom-card-header {
+    background-color: #f8f9fa;
+    color: #333;
+    font-weight: bold;
+    text-align: center;
+}
+
+.custom-card-body {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.custom-card-footer {
+    background-color: #f1f1f1;
+    text-align: right;
+}
